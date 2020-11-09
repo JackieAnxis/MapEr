@@ -1,0 +1,188 @@
+{
+  "errors": [
+  ],
+  "warnings": [
+  ],
+  "version": "4.44.2",
+  "hash": "11bfd373795d0d4068a3",
+  "time": 844,
+  "builtAt": 1604913431608,
+  "publicPath": "",
+  "outputPath": "D:\\Repositories\\MapEr\\build",
+  "assetsByChunkName": {
+    "main": "maper.js"
+  },
+  "assets": [
+    {
+      "name": "maper.js",
+      "size": 19828,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "info": {
+      },
+      "emitted": true
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        "maper.js"
+      ],
+      "children": {
+      },
+      "childAssets": {
+      }
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        "main"
+      ],
+      "assets": [
+        "maper.js"
+      ],
+      "children": {
+      },
+      "childAssets": {
+      }
+    }
+  },
+  "chunks": [
+    {
+      "id": "main",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 2590,
+      "names": [
+        "main"
+      ],
+      "files": [
+        "maper.js"
+      ],
+      "hash": "5c9a285f193af461b3eb",
+      "siblings": [
+      ],
+      "parents": [
+      ],
+      "children": [
+      ],
+      "childrenByOrder": {
+      },
+      "modules": [
+        {
+          "id": "./src/index.ts",
+          "identifier": "D:\\Repositories\\MapEr\\node_modules\\ts-loader\\index.js!D:\\Repositories\\MapEr\\src\\index.ts",
+          "name": "./src/index.ts",
+          "index": 0,
+          "index2": 0,
+          "size": 2590,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            "main"
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [
+          ],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "./src/index.ts",
+              "loc": "main"
+            }
+          ],
+          "providedExports": null,
+          "optimizationBailout": [
+          ],
+          "depth": 0
+        }
+      ],
+      "filteredModules": 0,
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src/index.ts",
+          "reasons": [
+          ]
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": "./src/index.ts",
+      "identifier": "D:\\Repositories\\MapEr\\node_modules\\ts-loader\\index.js!D:\\Repositories\\MapEr\\src\\index.ts",
+      "name": "./src/index.ts",
+      "index": 0,
+      "index2": 0,
+      "size": 2590,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        "main"
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [
+      ],
+      "reasons": [
+        {
+          "moduleId": null,
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "type": "single entry",
+          "userRequest": "./src/index.ts",
+          "loc": "main"
+        }
+      ],
+      "providedExports": null,
+      "optimizationBailout": [
+      ],
+      "depth": 0
+    }
+  ],
+  "filteredModules": 0,
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [
+      ],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": [
+  ]
+}
